@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Manny
 - 👀 I’m interested in playing/creating games and programming.
-- Skills: C++, Ubuntu/Linux
+- Skills: C++, Ubuntu/Linux.
+- I am open to learning about other programming languages and data structures.
+- Currently learning about asssembly, binary, and hexadecimal.
 - 📫 How to reach me:
 - Email: orozcomanuel21@gmail.com
